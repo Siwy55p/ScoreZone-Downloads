@@ -1,4 +1,4 @@
-# CourtScore-Downloads
+# ScoreZone-Downloads
 
 Oficjalne, podpisane instalatory aplikacji CourtScore.
 
