@@ -6,7 +6,9 @@
 
 <p align="center"><strong>Oficjalne instalatory ScoreZone na Windows</strong></p>
 
-ScoreZone to bezpłatna platforma do prowadzenia turniejów i lig bilardowych. Obsługuje zapisy, drabinki, terminarze i wyniki online.
+ScoreZone to bezpłatna platforma do organizacji turniejów i lig oraz publikowania wyników na żywo. Oficjalny serwis **[ScoreZone — scorezone.com.pl](https://scorezone.com.pl/)** łączy organizatorów, zawodników i widzów.
+
+Platforma obsługuje m.in. bilard, snooker i szachy. Udostępnia zapisy, drabinki, terminarze i wyniki online. Organizatorzy mogą korzystać z aplikacji Windows i panelu WWW.
 
 ## Pobierz ScoreZone
 
